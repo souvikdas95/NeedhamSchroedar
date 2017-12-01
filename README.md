@@ -109,4 +109,4 @@ where,
 
 ### Who do I talk to? ###
 
-* Author: Souvik Das ("souvikdas95@yahoo.co.in":mailto:souvikdas95@yahoo.co.in)
+* Author: Souvik Das (souvikdas95@yahoo.co.in)
